@@ -5,3 +5,4 @@
 2. adtam neki h1 es címszót
 3. beállítottam egy jó háttérszínt
 
+Megjöttem! #meszbal255 #AI #Claude #Local LLM #Imre #Iván
